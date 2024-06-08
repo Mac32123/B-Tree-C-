@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\bin\Debug\BDrzewoCSharp.exe.config
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\bin\Debug\BDrzewoCSharp.exe
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\bin\Debug\BDrzewoCSharp.pdb
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\obj\Debug\BDrzewoCSharp.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\obj\Debug\BDrzewoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\obj\Debug\BDrzewoCSharp.exe
+C:\Users\acer\Desktop\BDrzewoCSharp\BDrzewoCSharp\obj\Debug\BDrzewoCSharp.pdb
